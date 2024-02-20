@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Demo",
+    "section": "",
+    "text": "This is Demo for Project in Stat 515"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "With over 18 years of experience in software development, I excel in the entire software development lifecycle, including requirements gathering, analysis, coding, testing, deployment, and maintenance. My expertise spans multiple programming languages, encompassing front-end and back-end technologies, as well as database design and implementation. I am highly proficient in C#, C++, Python3, Numpy, Pandas, Matplotlib, and SciKit-Learn for programming, and possess strong skills in Angular, ASP.NET Framework, ASP.NET MVC, ASP.NET Core 3, HTML, XML, CSS, Bootstrap, jQuery, AJAX, and JavaScript for web technologies.\nMy educational background includes a Master of Science in Computer Science from Concordia University, Montreal, Canada, and a Master of Science in Applied Mathematics in Numerical Analysis from Iran University of Science & Technology, Tehran, Iran. I also hold a Bachelor of Science in Applied Mathematics in Computer from Tehran University, Tehran, Iran.\nIn addition to my technical skills, I have demonstrated leadership qualities, teamwork competencies, and the ability to work independently with little guidance or supervision. I am well-versed in SQL Server and DynamoDB for database management, GIT for version control, and have certifications in AWS Solution Architect, AWS Sysops, and AWS Developer for cloud computing. I am also familiar with Agile and Scrum methodologies for software development."
+  },
+  {
+    "objectID": "GMU.html",
+    "href": "GMU.html",
+    "title": "GMU",
+    "section": "",
+    "text": "This is a page for GMU"
+  }
+]
